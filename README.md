@@ -16,7 +16,7 @@ On arm64
 TODO
 ----
 
-* write documents.
+* Add Windows ARM64 support.
 
 News
 ----
